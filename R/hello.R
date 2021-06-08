@@ -13,12 +13,7 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-#' Title
-#'
-#' @return
-#' @export
-#'
-#' @examples
+
 hello <- function() {
   print("Hello, world!")
 }
